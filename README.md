@@ -8,6 +8,10 @@ Moreover, RequestState() offers functionalities to handle various aspects of req
 
 # Screenshot 
 
-
+-- Success Event --
 https://github.com/kaaneneskpc/WrapperClassForRequestState/assets/32849662/200444e9-e073-4f84-86e4-ca87fa02b722
+
+-- Error Event -- 
+https://github.com/kaaneneskpc/WrapperClassForRequestState/assets/32849662/871d9e3d-88a8-4c13-b0f2-49af7e7ff0bb
+
 
